@@ -1,0 +1,10 @@
+Nombre empresas: 
+
+Podcat, Photofeed, Youfeed, Riffpath, Thoughtmix, Tazzy, Feedmix, Skipstorm, Blogspan, Chatterpoint, Yata, Zoozzy, Mydo, Rhybox, Kimia
+
+Facebook, Twitter, MySpace, Google+, Ask.fm, Foursquare, Hi5, Instagram, Pinterest, Snapchat
+
+
+source C:\Users\Abelardo\Desktop\BD\Lab\MySQL\Proyecto/creacion.sql
+
+Mark Zuckerberg, Jerry Dean, Albert Johnson, Jack Snyder, Jennifer Martin, Janice Campbell, Irene Reed, Edward Ray, Jacqueline Lane, Marilyn Carroll, Anna Romero, Edward Carpenter, Brenda Greene, Amy Adams, Johnny Burton
